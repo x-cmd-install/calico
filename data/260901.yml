@@ -1,0 +1,69 @@
+about:
+  description: Cloud native networking and network security
+  license: Apache-2.0
+  homepage: https://docs.tigera.io/calico/latest/about/
+  head: 63f679c
+  archived: false
+  latestVersion: v3.32.2
+  collectedAt: 2026-09-01T04:59:45Z
+timeline:
+  created: 2016-07-21
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-30
+popularity:
+  star: 7343
+  watcher: 115
+  fork: 1601
+  release: 246
+  contributor: 428
+  pullRequest: 1461
+  issue: 3662
+language:
+  Go: 21645851
+  Python: 1021454
+  TypeScript: 691218
+  Shell: 557439
+  C: 384892
+  Makefile: 314232
+  PowerShell: 118147
+  CSS: 31647
+  Dockerfile: 27168
+  C++: 21064
+  Go Template: 4598
+  JavaScript: 2706
+  HCL: 1173
+  HTML: 327
+totalLine: 24821916
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 212
+    openPR: 50
+    closedIssue: 1
+    openIssue: 22
+    commit: 274
+  last90d:
+    since: 2026-06-03
+    release: 4
+    mergedPR: 573
+    openPR: 102
+    closedIssue: 24
+    openIssue: 36
+    commit: 1110
+  last180d:
+    since: 2026-03-05
+    release: 7
+    mergedPR: 1268
+    openPR: 144
+    closedIssue: 67
+    openIssue: 42
+    commit: 2523
+  last360d:
+    since: 2025-09-06
+    release: 17
+    mergedPR: 2033
+    openPR: 162
+    closedIssue: 177
+    openIssue: 55
+    commit: 3805
