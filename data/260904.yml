@@ -4,10 +4,10 @@ about:
     Cloud native networking and network security
   license: Apache-2.0
   homepage: https://docs.tigera.io/calico/latest/about/
-  head: a3e0985
+  head: 4707fe9
   archived: false
   latestVersion: v3.32.2
-  collectedAt: 2026-09-04T19:33:17Z
+  collectedAt: 2026-09-04T21:00:37Z
 timeline:
   created: 2016-07-21
   lastCommit: 2026-09-04
@@ -18,15 +18,15 @@ popularity:
   fork: 1600
   release: 246
   contributor: 426
-  pullRequest: 10051
+  pullRequest: 10053
   issue: 3662
 language:
-  Go: 29364712
+  Go: 29371323
   Python: 1024154
   TypeScript: 691218
   Shell: 569736
   C: 384892
-  Makefile: 345925
+  Makefile: 346002
   PowerShell: 118147
   CSS: 31647
   Dockerfile: 28738
@@ -35,64 +35,212 @@ language:
   JavaScript: 2706
   HCL: 1173
   HTML: 327
-totalBytes: 32603482
+totalBytes: 32610170
 recent:
   last30d:
     since: 2026-08-05
     release: 2
-    mergedPR: 253
-    openPR: 50
+    mergedPR: 256
+    openPR: 49
     closedIssue: 3
     openIssue: 20
-    commit: 539
+    commit: 542
   last60d:
     since: 2026-07-06
     release: 2
-    mergedPR: 466
-    openPR: 85
+    mergedPR: 469
+    openPR: 84
     closedIssue: 12
     openIssue: 30
-    commit: 1150
+    commit: 1153
   last90d:
     since: 2026-06-06
     release: 4
-    mergedPR: 623
-    openPR: 106
+    mergedPR: 626
+    openPR: 105
     closedIssue: 26
     openIssue: 34
-    commit: 1723
+    commit: 1726
   last180d:
     since: 2026-03-08
     release: 7
-    mergedPR: 1312
-    openPR: 149
+    mergedPR: 1315
+    openPR: 148
     closedIssue: 69
     openIssue: 40
-    commit: 3464
+    commit: 3467
   last360d:
     since: 2025-09-09
     release: 17
-    mergedPR: 2086
-    openPR: 167
+    mergedPR: 2089
+    openPR: 166
     closedIssue: 174
     openIssue: 53
-    commit: 4953
+    commit: 4956
   last720d:
     since: 2024-09-14
     release: 32
-    mergedPR: 3315
-    openPR: 175
+    mergedPR: 3318
+    openPR: 174
     closedIssue: 488
     openIssue: 68
-    commit: 6066
+    commit: 6069
 total:
   release: 246
-  mergedPR: 8576
-  openPR: 175
+  mergedPR: 8579
+  openPR: 174
   closedIssue: 3567
   openIssue: 95
-  commit: 40157
+  commit: 40160
 ---
+path: /home/runner/.x-repo/github.com/projectcalico/calico
+collectedAt: 2026-09-04T21:00:53Z
+loc:
+  Go:
+    code: 705263
+    comments: 118177
+    blanks: 103863
+    files: 3197
+  Yaml:
+    code: 440069
+    comments: 3973
+    blanks: 2056
+    files: 539
+  ForgeConfig:
+    code: 22256
+    comments: 6488
+    blanks: 1
+    files: 539
+  Python:
+    code: 18245
+    comments: 4874
+    blanks: 2947
+    files: 84
+  Json:
+    code: 13557
+    comments: 0
+    blanks: 12
+    files: 95
+  Tsx:
+    code: 13081
+    comments: 88
+    blanks: 1752
+    files: 178
+  CHeader:
+    code: 6256
+    comments: 1419
+    blanks: 1262
+    files: 57
+  TypeScript:
+    code: 6101
+    comments: 140
+    blanks: 621
+    files: 105
+  Sh:
+    code: 5098
+    comments: 2176
+    blanks: 1312
+    files: 83
+  Makefile:
+    code: 5037
+    comments: 2210
+    blanks: 1300
+    files: 43
+  C:
+    code: 2953
+    comments: 680
+    blanks: 583
+    files: 24
+  PowerShell:
+    code: 2256
+    comments: 581
+    blanks: 473
+    files: 22
+  Bash:
+    code: 1528
+    comments: 383
+    blanks: 255
+    files: 28
+  Protobuf:
+    code: 861
+    comments: 383
+    blanks: 275
+    files: 5
+  Css:
+    code: 726
+    comments: 70
+    blanks: 112
+    files: 13
+  Pan:
+    code: 531
+    comments: 0
+    blanks: 17
+    files: 4
+  Dockerfile:
+    code: 517
+    comments: 269
+    blanks: 199
+    files: 19
+  Autoconf:
+    code: 296
+    comments: 26
+    blanks: 98
+    files: 6
+  ReStructuredText:
+    code: 218
+    comments: 0
+    blanks: 79
+    files: 4
+  Bitbake:
+    code: 159
+    comments: 33
+    blanks: 43
+    files: 7
+  RPMSpecfile:
+    code: 150
+    comments: 20
+    blanks: 42
+    files: 3
+  JavaScript:
+    code: 89
+    comments: 2
+    blanks: 2
+    files: 5
+  Hcl:
+    code: 43
+    comments: 10
+    blanks: 11
+    files: 1
+  Ini:
+    code: 43
+    comments: 7
+    blanks: 7
+    files: 2
+  Toml:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 2
+  Html:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 14380
+    blanks: 4093
+    files: 113
+  Text:
+    code: 0
+    comments: 17355
+    blanks: 115
+    files: 125
+total:
+  code: 1245746
+  comments: 173804
+  blanks: 121571
+  files: 5304
 ---
 date: "2026-08-24"
 repo:
