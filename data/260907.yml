@@ -2,10 +2,10 @@ about:
   description: "Cloud native networking and network security"
   license: Apache-2.0
   homepage: https://docs.tigera.io/calico/latest/about/
-  head: a51129c
+  head: efc70c3
   archived: false
   latestVersion: "v3.32.2"
-  collectedAt: 2026-09-07T06:16:58Z
+  collectedAt: 2026-09-07T18:31:30Z
 timeline:
   created: 2016-07-21
   lastCommit: 2026-09-07
@@ -13,16 +13,16 @@ timeline:
 popularity:
   star: 7347
   watcher: 116
-  fork: 1601
+  fork: 1602
   release: 246
   contributor: 426
-  pullRequest: 10068
+  pullRequest: 10070
   issue: 3662
 language:
-  Go: 25750829
+  Go: 25793865
   Python: 1024154
   TypeScript: 691218
-  Shell: 612078
+  Shell: 612238
   C: 384892
   Makefile: 343442
   PowerShell: 118147
@@ -33,72 +33,72 @@ language:
   JavaScript: 2706
   HCL: 1173
   HTML: 327
-totalBytes: 29029458
+totalBytes: 29072654
 recent:
   last30d:
     since: 2026-08-08
     release: 2
-    mergedPR: 235
-    openPR: 52
+    mergedPR: 239
+    openPR: 50
     closedIssue: 3
     openIssue: 20
-    commit: 435
+    commit: 441
   last60d:
     since: 2026-07-09
     release: 2
-    mergedPR: 449
-    openPR: 82
+    mergedPR: 454
+    openPR: 79
     closedIssue: 12
     openIssue: 27
-    commit: 1003
+    commit: 1009
   last90d:
     since: 2026-06-09
     release: 4
-    mergedPR: 626
-    openPR: 107
+    mergedPR: 631
+    openPR: 104
     closedIssue: 24
     openIssue: 33
-    commit: 1661
+    commit: 1667
   last180d:
     since: 2026-03-11
     release: 7
-    mergedPR: 1285
-    openPR: 148
+    mergedPR: 1290
+    openPR: 145
     closedIssue: 70
     openIssue: 39
-    commit: 3189
+    commit: 3195
   last360d:
     since: 2025-09-12
     release: 17
-    mergedPR: 2071
-    openPR: 168
+    mergedPR: 2076
+    openPR: 165
     closedIssue: 173
     openIssue: 52
-    commit: 4878
+    commit: 4884
   last720d:
     since: 2024-09-17
     release: 32
-    mergedPR: 3325
-    openPR: 176
+    mergedPR: 3330
+    openPR: 173
     closedIssue: 485
     openIssue: 67
-    commit: 6074
+    commit: 6079
 total:
   release: 246
-  mergedPR: 8590
-  openPR: 176
+  mergedPR: 8595
+  openPR: 173
   closedIssue: 3568
   openIssue: 94
-  commit: 40170
+  commit: 40175
 ---
 path: /home/runner/.x-repo/github.com/projectcalico/calico
-collectedAt: 2026-09-07T06:17:46Z
+collectedAt: 2026-09-07T18:32:07Z
 loc:
   Go:
-    code: 634478
-    comments: 107620
-    blanks: 93804
-    files: 2933
+    code: 635283
+    comments: 107825
+    blanks: 93938
+    files: 2934
   Yaml:
     code: 421725
     comments: 3973
@@ -135,8 +135,8 @@ loc:
     blanks: 621
     files: 105
   Sh:
-    code: 5098
-    comments: 2176
+    code: 5099
+    comments: 2178
     blanks: 1312
     files: 83
   Makefile:
@@ -235,10 +235,10 @@ loc:
     blanks: 115
     files: 125
 total:
-  code: 1151111
-  comments: 163116
-  blanks: 111510
-  files: 4944
+  code: 1151917
+  comments: 163323
+  blanks: 111644
+  files: 4945
 ---
 date: "2026-08-24"
 repo:
@@ -417,7 +417,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:17:48+00:00
+  collectedAt: 2026-09-07T18:32:09+00:00
   platform:
     darwin/arm64:
       name:  calicoctl-darwin-arm64
