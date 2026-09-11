@@ -4,7 +4,7 @@
 
 Cloud native networking and network security
 
-![calico](https://repo.x-cmd.io/calico.svg)
+![calico](https://repo.x-cmd.io/calico.svg?lang=zh)
 
 ## 安装
 
@@ -12,45 +12,16 @@ Cloud native networking and network security
 x install calico
 ```
 
-## 源代码
+## 代码洞察
 
-- **上游仓库**: <https://github.com/projectcalico/calico>
-- **官网**: <https://docs.tigera.io/calico/latest/about/>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `v3.32.2` (2026-08-30)
-- **最近提交**: 2026-09-09
-- **Release 含资产**: 17 个
-- **发布时间**: 2026-08-30T16:29:23Z
-
-## 流行度
-
-- **Star**: 7,350 · **Fork**: 1,602 · **开放 issue**: 3,667 · **贡献者**: 426
-
-## 累计统计
-
-- **发布数**: 246 · **已合并 PR**: 8634 · **开放 PR**: 174 · **已关闭 issue**: 3572 · **开放 issue**: 95 · **提交数**: 40206
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 260 | 50 | 6 | 19 | 469 |
-| 90d | 2026-06-12 | 4 | 650 | 100 | 26 | 33 | 1701 |
-| 360d | 2025-09-15 | 17 | 2106 | 165 | 177 | 53 | 4918 |
-
-## 代码规模
-
-合计: **1,147,782** 行代码（覆盖前 5 种语言、共 **4215** 个文件）。
+合计: **1,150,686** 行代码（覆盖前 5 种语言、共 **4229** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 632,100 | 107,399 | 93,534 | 2911 |
-| Yaml | 421,622 | 3,978 | 2,056 | 503 |
+| Go | 634,955 | 107,839 | 93,954 | 2925 |
+| Yaml | 421,622 | 3,982 | 2,056 | 503 |
 | ForgeConfig | 22,256 | 6,488 | 1 | 539 |
-| Python | 18,266 | 4,874 | 2,951 | 84 |
+| Python | 18,287 | 4,874 | 2,952 | 84 |
 | Tsx | 13,081 | 88 | 1,752 | 178 |
 
 ## OpenSSF Scorecard 评分
@@ -63,6 +34,68 @@ x install calico
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
+## 源代码
+
+- **上游仓库**: <https://github.com/projectcalico/calico>
+- **官网**: <https://docs.tigera.io/calico/latest/about/>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `v3.32.2` (2026-08-30)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 17 个
+
+## 流行度
+
+- **Star**: 7,350 · **Fork**: 1,602 · **开放 issue**: 3,668 · **贡献者**: 426
+
+## 累计统计
+
+- **发布数**: 246 · **已合并 PR**: 8655 · **开放 PR**: 168 · **已关闭 issue**: 3573 · **开放 issue**: 95 · **提交数**: 40246
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 2 | 272 | 44 | 6 | 19 | 512 |
+| last60d | 2026-07-13 | 2 | 501 | 72 | 15 | 27 | 1086 |
+| 90d | 2026-06-13 | 4 | 671 | 94 | 26 | 34 | 1744 |
+| last180d | 2026-03-15 | 7 | 1314 | 140 | 71 | 41 | 3272 |
+| 360d | 2025-09-16 | 17 | 2119 | 159 | 175 | 53 | 4961 |
+| last720d | 2024-09-21 | 31 | 3364 | 168 | 488 | 68 | 6088 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [calico-windows-v3.32.2.zip](https://github.com/projectcalico/calico/releases/download/v3.32.2/calico-windows-v3.32.2.zip) | 115.6 MiB | `native/win/x64` |
+| [calicoctl-darwin-amd64](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-darwin-amd64) | 94.1 MiB | `native/darwin/x64` |
+| [calicoctl-darwin-arm64](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-darwin-arm64) | 90.4 MiB | `native/darwin/arm64` |
+| [calicoctl-linux-amd64](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-linux-amd64) | 91.4 MiB | `native/linux/x64` |
+| [calicoctl-linux-arm64](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-linux-arm64) | 86.9 MiB | `native/linux/arm64` |
+| [calicoctl-linux-ppc64le](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-linux-ppc64le) | 90.6 MiB | `other` |
+| [calicoctl-linux-s390x](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-linux-s390x) | 95.3 MiB | `other` |
+| [calicoctl-windows-amd64.exe](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-windows-amd64.exe) | 92.1 MiB | `native/win/x64` |
+| [crd.projectcalico.org.v1-v3.32.2.tgz](https://github.com/projectcalico/calico/releases/download/v3.32.2/crd.projectcalico.org.v1-v3.32.2.tgz) | 233.9 KiB | `native/unknown` |
+| [install-calico-windows.ps1](https://github.com/projectcalico/calico/releases/download/v3.32.2/install-calico-windows.ps1) | 23.8 KiB | `native/win/x64` |
+| [LICENSE](https://github.com/projectcalico/calico/releases/download/v3.32.2/LICENSE) | 10.5 KiB | `other` |
+| [metadata.yaml](https://github.com/projectcalico/calico/releases/download/v3.32.2/metadata.yaml) | 1.2 KiB | `other` |
+| [ocp.tgz](https://github.com/projectcalico/calico/releases/download/v3.32.2/ocp.tgz) | 5.7 KiB | `native/unknown` |
+| [projectcalico.org.v3-v3.32.2.tgz](https://github.com/projectcalico/calico/releases/download/v3.32.2/projectcalico.org.v3-v3.32.2.tgz) | 215.8 KiB | `native/unknown` |
+| [release-v3.32.2.tgz](https://github.com/projectcalico/calico/releases/download/v3.32.2/release-v3.32.2.tgz) | 1.0 GiB | `native/unknown` |
+| [SHA256SUMS](https://github.com/projectcalico/calico/releases/download/v3.32.2/SHA256SUMS) | 1.4 KiB | `other` |
+| [tigera-operator-v3.32.2.tgz](https://github.com/projectcalico/calico/releases/download/v3.32.2/tigera-operator-v3.32.2.tgz) | 11.3 KiB | `native/unknown` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/calico) 上共有 **15** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `3.32.2` | ✅ latest |
+| Nix unstable | `3.32.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 calico 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `calico` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -72,4 +105,4 @@ calico 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:26:54Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:13:37Z._
