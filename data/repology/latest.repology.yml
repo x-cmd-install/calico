@@ -1,0 +1,178 @@
+- repo: aixtoolbox
+  srcname: calicoctl
+  visiblename: calicoctl
+  version: 3.3.1
+  origversion: 3.3.1-1
+  status: outdated
+  summary: Calico CLI tool
+  licenses:
+    - ASL 2.0
+  categories:
+    - Applications/System
+- repo: alt_p11
+  srcname: calico
+  binnames:
+    - calico
+    - calico-cni
+    - calico-ctl
+    - calico-kube-controllers
+  visiblename: calico
+  version: 3.31.3
+  origversion: 3.31.3-alt1
+  status: outdated
+  summary: Cloud native networking and network security
+  maintainers:
+    - sovtouch@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - System/Configuration/Networking
+- repo: altsisyphus
+  srcname: calico
+  binnames:
+    - calico
+    - calico-cni
+    - calico-ctl
+    - calico-kube-controllers
+  visiblename: calico
+  version: 3.32.1
+  origversion: 3.32.1-alt2
+  status: outdated
+  summary: Cloud native networking and network security
+  maintainers:
+    - iv@altlinux.org
+  licenses:
+    - Apache-2.0 AND GPL-2.0-or-later
+  categories:
+    - System/Configuration/Networking
+- repo: aur
+  srcname: calicoctl
+  binname: calicoctl
+  visiblename: calicoctl
+  version: 3.32.1
+  origversion: 3.32.1-1
+  status: outdated
+  summary: Calico CLI tool
+  maintainers:
+    - nltimv@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: calicoctl-bin
+  binname: calicoctl-bin
+  visiblename: calicoctl-bin
+  version: 3.31.3
+  origversion: 3.31.3-1
+  status: outdated
+  summary: command line tool to manage Calico resources and perform administrative functions
+  maintainers:
+    - grainrigi@aur
+  licenses:
+    - Apache
+- repo: homebrew
+  srcname: calicoctl
+  visiblename: calicoctl
+  version: 3.32.2
+  origversion: null
+  status: newest
+  summary: Calico CLI tool
+- repo: homebrew
+  srcname: calicoctl
+  visiblename: calicoctl
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Calico CLI tool
+- repo: kali_rolling
+  subrepo: main
+  srcname: calico
+  binnames:
+    - calicoctl
+  visiblename: calico
+  version: 3.32.1
+  origversion: 3.32.1+ds-0kali1
+  status: outdated
+  maintainers:
+    - devel@kali.org
+    - sophie@kali.org
+  categories:
+    - misc
+- repo: nix_stable_24_05
+  srcname: calicoctl
+  visiblename: calicoctl
+  version: 3.28.0
+  origversion: null
+  status: outdated
+  summary: Cloud native networking and network security
+  maintainers:
+    - colin@urandom.co.uk
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: calicoctl
+  visiblename: calicoctl
+  version: 3.29.0
+  origversion: null
+  status: outdated
+  summary: Cloud native networking and network security
+  maintainers:
+    - colin@urandom.co.uk
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: calicoctl
+  visiblename: calicoctl
+  version: 3.29.3
+  origversion: null
+  status: outdated
+  summary: Cloud native networking and network security
+  maintainers:
+    - colin@urandom.co.uk
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: calicoctl
+  visiblename: calicoctl
+  version: 3.30.4
+  origversion: null
+  status: outdated
+  summary: Cloud native networking and network security
+  maintainers:
+    - colin@urandom.co.uk
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: calicoctl
+  visiblename: calicoctl
+  version: 3.31.5
+  origversion: null
+  status: outdated
+  summary: Cloud native networking and network security
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: calicoctl
+  visiblename: calicoctl
+  version: 3.32.1
+  origversion: null
+  status: outdated
+  summary: Cloud native networking and network security
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: parrot
+  subrepo: parrot/main
+  srcname: calico
+  binnames:
+    - calicoctl
+  visiblename: calico
+  version: 3.26.0
+  origversion: 3.26.0-0parrot1
+  status: outdated
+  maintainers:
+    - palinuro@parrotsec.org
+  categories:
+    - misc
