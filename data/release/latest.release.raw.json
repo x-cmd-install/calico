@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 121210033,
       "digest": "sha256:07f81f0c71a63919a0c93ada6c6f2bbc854fe0a89e0089b747d9d73a41369a0c",
-      "download_count": 172,
+      "download_count": 203,
       "created_at": "2026-08-28T23:50:43Z",
       "updated_at": "2026-08-28T23:50:49Z",
       "browser_download_url": "https://github.com/projectcalico/calico/releases/download/v3.32.2/calico-windows-v3.32.2.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 98634352,
       "digest": "sha256:185aad9fb321aa359e5e82c874f7348aeed8317c0d1d77f1b6fbc21ac89c1471",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-08-28T23:50:41Z",
       "updated_at": "2026-08-28T23:50:46Z",
       "browser_download_url": "https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 94752722,
       "digest": "sha256:5c5b75cdd936d950b37059a7b93b44839c700e9ad6d0bdb7a67434465115e506",
-      "download_count": 61,
+      "download_count": 63,
       "created_at": "2026-08-28T23:50:47Z",
       "updated_at": "2026-08-28T23:50:51Z",
       "browser_download_url": "https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 95824585,
       "digest": "sha256:fd2ebfc94e63ed34e924cbb8dcdcf3ffc8b264098e58d87069abd46ada2e103a",
-      "download_count": 1166,
+      "download_count": 1244,
       "created_at": "2026-08-28T23:50:43Z",
       "updated_at": "2026-08-28T23:50:48Z",
       "browser_download_url": "https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 91130843,
       "digest": "sha256:9235f55386cfd96e2f55393e997efec7768049cf2379a8dffa07e724890a4691",
-      "download_count": 82,
+      "download_count": 86,
       "created_at": "2026-08-28T23:50:48Z",
       "updated_at": "2026-08-28T23:50:52Z",
       "browser_download_url": "https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-linux-arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 99882596,
       "digest": "sha256:f83b1c99a58f5523a5e2e660e578e35938e032c2de1fce0c925f4bf1ea09a773",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-08-28T23:50:37Z",
       "updated_at": "2026-08-28T23:50:42Z",
       "browser_download_url": "https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-linux-s390x"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 239469,
       "digest": "sha256:6b8ad44ca50fcd10e7766d4433845113641f4e1bc673103614d3663e2a934d6c",
-      "download_count": 3763,
+      "download_count": 4123,
       "created_at": "2026-08-28T23:50:37Z",
       "updated_at": "2026-08-28T23:50:37Z",
       "browser_download_url": "https://github.com/projectcalico/calico/releases/download/v3.32.2/crd.projectcalico.org.v1-v3.32.2.tgz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5887,
       "digest": "sha256:20cdfa2052e1474275bf4f7c14d6f65d42c17201847e78eb26faa48235338ea5",
-      "download_count": 34,
+      "download_count": 38,
       "created_at": "2026-08-28T23:50:39Z",
       "updated_at": "2026-08-28T23:50:39Z",
       "browser_download_url": "https://github.com/projectcalico/calico/releases/download/v3.32.2/ocp.tgz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 220974,
       "digest": "sha256:06d4f2716af0e2c2d74ea1ab0faa096d0bfdecb4524468674ca359e56f9354ed",
-      "download_count": 996,
+      "download_count": 1036,
       "created_at": "2026-08-28T23:50:39Z",
       "updated_at": "2026-08-28T23:50:39Z",
       "browser_download_url": "https://github.com/projectcalico/calico/releases/download/v3.32.2/projectcalico.org.v3-v3.32.2.tgz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1108070262,
       "digest": "sha256:d88cb7e2f7d56b5a24bd2853300f026bab7b1debd978b0c8a1d560a1707a26fd",
-      "download_count": 78,
+      "download_count": 84,
       "created_at": "2026-08-28T23:50:39Z",
       "updated_at": "2026-08-28T23:51:26Z",
       "browser_download_url": "https://github.com/projectcalico/calico/releases/download/v3.32.2/release-v3.32.2.tgz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1421,
       "digest": "sha256:6743b1d4b45ae434175e478c598e029417ab576d201c6bf15aab4c276984dc81",
-      "download_count": 324,
+      "download_count": 336,
       "created_at": "2026-08-28T23:50:42Z",
       "updated_at": "2026-08-28T23:50:43Z",
       "browser_download_url": "https://github.com/projectcalico/calico/releases/download/v3.32.2/SHA256SUMS"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 11574,
       "digest": "sha256:bb572d59ce6dc004ca51082b50dc62759715f77801acc3684e80235b7d5bc872",
-      "download_count": 27339,
+      "download_count": 28752,
       "created_at": "2026-08-28T23:50:37Z",
       "updated_at": "2026-08-28T23:50:37Z",
       "browser_download_url": "https://github.com/projectcalico/calico/releases/download/v3.32.2/tigera-operator-v3.32.2.tgz"
