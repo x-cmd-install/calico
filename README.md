@@ -14,19 +14,19 @@ x install calico
 
 ## Code insight
 
-Total: **1,155,035** lines of code across **4240** files in the top 5 languages.
+Total: **1,156,464** lines of code across **4246** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 638,521 | 108,618 | 94,472 | 2936 |
-| Yaml | 422,390 | 3,982 | 2,056 | 503 |
+| Go | 639,652 | 108,757 | 94,661 | 2942 |
+| Yaml | 422,405 | 3,986 | 2,056 | 503 |
 | ForgeConfig | 22,256 | 6,488 | 1 | 539 |
 | Python | 18,287 | 4,874 | 2,952 | 84 |
 | Tsx | 13,081 | 88 | 1,752 | 178 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.8 / 10**
+Overall score: **6 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.32.2` (2026-08-30)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 7,355 · **Forks**: 1,604 · **Open issues**: 3,671 · **Contributors**: 426
+- **Stars**: 7,357 · **Forks**: 1,604 · **Open issues**: 3,671 · **Contributors**: 425
 
 ## Totals (cumulative)
 
-- **Releases**: 246 · **Merged PRs**: 8685 · **Open PRs**: 190 · **Closed issues**: 3576 · **Open issues**: 95 · **Commits**: 40288
+- **Releases**: 246 · **Merged PRs**: 8700 · **Open PRs**: 187 · **Closed issues**: 3577 · **Open issues**: 94 · **Commits**: 40297
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 2 | 274 | 65 | 6 | 22 | 445 |
-| last60d | 2026-07-17 | 2 | 500 | 93 | 14 | 29 | 1021 |
-| 90d | 2026-06-17 | 4 | 668 | 114 | 26 | 34 | 1671 |
-| last180d | 2026-03-19 | 7 | 1289 | 159 | 71 | 41 | 3078 |
-| 360d | 2025-09-20 | 16 | 2126 | 181 | 176 | 52 | 4973 |
-| last720d | 2024-09-25 | 31 | 3383 | 190 | 489 | 68 | 6124 |
+| 30d | 2026-08-17 | 2 | 279 | 62 | 7 | 21 | 456 |
+| last60d | 2026-07-18 | 2 | 515 | 90 | 15 | 27 | 1032 |
+| 90d | 2026-06-18 | 4 | 672 | 111 | 27 | 33 | 1682 |
+| last180d | 2026-03-20 | 6 | 1292 | 156 | 71 | 40 | 3089 |
+| 360d | 2025-09-21 | 16 | 2141 | 178 | 177 | 51 | 4984 |
+| last720d | 2024-09-26 | 31 | 3397 | 187 | 489 | 67 | 6122 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for calico lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:51:16Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:48:53Z._
