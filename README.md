@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.32.2` (2026-08-30)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-21
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 7,363 · **Forks**: 1,607 · **Open issues**: 3,677 · **Contributors**: 427
+- **Stars**: 7,364 · **Forks**: 1,606 · **Open issues**: 3,678 · **Contributors**: 427
 
 ## Totals (cumulative)
 
-- **Releases**: 246 · **Merged PRs**: 8738 · **Open PRs**: 184 · **Closed issues**: 3581 · **Open issues**: 96 · **Commits**: 40346
+- **Releases**: 246 · **Merged PRs**: 8739 · **Open PRs**: 188 · **Closed issues**: 3583 · **Open issues**: 95 · **Commits**: 40348
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 2 | 264 | 59 | 9 | 24 | 376 |
-| last60d | 2026-07-22 | 2 | 518 | 82 | 17 | 29 | 932 |
-| 90d | 2026-06-22 | 3 | 696 | 108 | 31 | 35 | 1598 |
-| last180d | 2026-03-24 | 6 | 1309 | 153 | 73 | 42 | 3034 |
-| 360d | 2025-09-25 | 16 | 2157 | 175 | 180 | 52 | 4992 |
-| last720d | 2024-09-30 | 31 | 3431 | 184 | 487 | 69 | 6158 |
+| 30d | 2026-08-22 | 1 | 262 | 64 | 10 | 23 | 378 |
+| last60d | 2026-07-23 | 2 | 503 | 83 | 18 | 29 | 934 |
+| 90d | 2026-06-23 | 3 | 685 | 110 | 33 | 34 | 1600 |
+| last180d | 2026-03-25 | 6 | 1304 | 155 | 74 | 41 | 3036 |
+| 360d | 2025-09-26 | 16 | 2155 | 178 | 182 | 51 | 4994 |
+| last720d | 2024-10-01 | 31 | 3426 | 188 | 489 | 68 | 6158 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for calico lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:31:52Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:43:48Z._
