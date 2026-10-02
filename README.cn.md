@@ -14,11 +14,11 @@ x install calico
 
 ## 代码洞察
 
-合计: **1,175,580** 行代码（覆盖前 5 种语言、共 **4324** 个文件）。
+合计: **1,175,675** 行代码（覆盖前 5 种语言、共 **4324** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 653,420 | 111,443 | 96,827 | 3017 |
+| Go | 653,515 | 111,446 | 96,839 | 3017 |
 | Yaml | 427,233 | 3,630 | 1,681 | 506 |
 | ForgeConfig | 22,256 | 6,488 | 1 | 539 |
 | Python | 18,289 | 4,874 | 2,952 | 84 |
@@ -42,50 +42,49 @@ x install calico
 
 ## 发布
 
-- **最新版本**: `v3.32.2` (2026-08-30)
-- **最近提交**: 2026-09-30
-- **Release 含资产**: 17 个
+- **最新版本**: `v3.33.0` (2026-10-01)
+- **最近提交**: 2026-10-02
+- **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 7,378 · **Fork**: 1,613 · **开放 issue**: 3,681 · **贡献者**: 428
+- **Star**: 7,379 · **Fork**: 1,613 · **开放 issue**: 3,683 · **贡献者**: 429
 
 ## 累计统计
 
-- **发布数**: 246 · **已合并 PR**: 8834 · **开放 PR**: 185 · **已关闭 issue**: 3592 · **开放 issue**: 89 · **提交数**: 40452
+- **发布数**: 247 · **已合并 PR**: 8848 · **开放 PR**: 188 · **已关闭 issue**: 3592 · **开放 issue**: 91 · **提交数**: 40503
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 278 | 60 | 12 | 7 | 284 |
-| last60d | 2026-08-02 | 2 | 527 | 78 | 19 | 23 | 908 |
-| 90d | 2026-07-03 | 2 | 726 | 101 | 36 | 27 | 1544 |
-| last180d | 2026-04-04 | 6 | 1318 | 145 | 82 | 34 | 3046 |
-| 360d | 2025-10-06 | 16 | 2217 | 175 | 184 | 46 | 5055 |
-| last720d | 2024-10-11 | 31 | 3495 | 185 | 493 | 62 | 6223 |
+| 30d | 2026-09-02 | 1 | 257 | 63 | 12 | 9 | 335 |
+| last60d | 2026-08-03 | 3 | 536 | 81 | 19 | 25 | 959 |
+| 90d | 2026-07-04 | 3 | 740 | 103 | 36 | 29 | 1595 |
+| last180d | 2026-04-05 | 7 | 1332 | 148 | 82 | 36 | 3097 |
+| 360d | 2025-10-07 | 17 | 2223 | 178 | 183 | 48 | 5106 |
+| last720d | 2024-10-12 | 32 | 3508 | 188 | 492 | 64 | 6268 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [calico-windows-v3.32.2.zip](https://github.com/projectcalico/calico/releases/download/v3.32.2/calico-windows-v3.32.2.zip) | 115.6 MiB | `native/win/x64` |
-| [calicoctl-darwin-amd64](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-darwin-amd64) | 94.1 MiB | `native/darwin/x64` |
-| [calicoctl-darwin-arm64](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-darwin-arm64) | 90.4 MiB | `native/darwin/arm64` |
-| [calicoctl-linux-amd64](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-linux-amd64) | 91.4 MiB | `native/linux/x64` |
-| [calicoctl-linux-arm64](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-linux-arm64) | 86.9 MiB | `native/linux/arm64` |
-| [calicoctl-linux-ppc64le](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-linux-ppc64le) | 90.6 MiB | `other` |
-| [calicoctl-linux-s390x](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-linux-s390x) | 95.3 MiB | `other` |
-| [calicoctl-windows-amd64.exe](https://github.com/projectcalico/calico/releases/download/v3.32.2/calicoctl-windows-amd64.exe) | 92.1 MiB | `native/win/x64` |
-| [crd.projectcalico.org.v1-v3.32.2.tgz](https://github.com/projectcalico/calico/releases/download/v3.32.2/crd.projectcalico.org.v1-v3.32.2.tgz) | 233.9 KiB | `native/unknown` |
-| [install-calico-windows.ps1](https://github.com/projectcalico/calico/releases/download/v3.32.2/install-calico-windows.ps1) | 23.8 KiB | `native/win/x64` |
-| [LICENSE](https://github.com/projectcalico/calico/releases/download/v3.32.2/LICENSE) | 10.5 KiB | `other` |
-| [metadata.yaml](https://github.com/projectcalico/calico/releases/download/v3.32.2/metadata.yaml) | 1.2 KiB | `other` |
-| [ocp.tgz](https://github.com/projectcalico/calico/releases/download/v3.32.2/ocp.tgz) | 5.7 KiB | `native/unknown` |
-| [projectcalico.org.v3-v3.32.2.tgz](https://github.com/projectcalico/calico/releases/download/v3.32.2/projectcalico.org.v3-v3.32.2.tgz) | 215.8 KiB | `native/unknown` |
-| [release-v3.32.2.tgz](https://github.com/projectcalico/calico/releases/download/v3.32.2/release-v3.32.2.tgz) | 1.0 GiB | `native/unknown` |
-| [SHA256SUMS](https://github.com/projectcalico/calico/releases/download/v3.32.2/SHA256SUMS) | 1.4 KiB | `other` |
-| [tigera-operator-v3.32.2.tgz](https://github.com/projectcalico/calico/releases/download/v3.32.2/tigera-operator-v3.32.2.tgz) | 11.3 KiB | `native/unknown` |
+| [calico-windows-v3.33.0.zip](https://github.com/projectcalico/calico/releases/download/v3.33.0/calico-windows-v3.33.0.zip) | 48.5 MiB | `native/win/x64` |
+| [calicoctl-darwin-amd64](https://github.com/projectcalico/calico/releases/download/v3.33.0/calicoctl-darwin-amd64) | 97.2 MiB | `native/darwin/x64` |
+| [calicoctl-darwin-arm64](https://github.com/projectcalico/calico/releases/download/v3.33.0/calicoctl-darwin-arm64) | 92.5 MiB | `native/darwin/arm64` |
+| [calicoctl-linux-amd64](https://github.com/projectcalico/calico/releases/download/v3.33.0/calicoctl-linux-amd64) | 94.6 MiB | `native/linux/x64` |
+| [calicoctl-linux-arm64](https://github.com/projectcalico/calico/releases/download/v3.33.0/calicoctl-linux-arm64) | 89.1 MiB | `native/linux/arm64` |
+| [calicoctl-linux-ppc64le](https://github.com/projectcalico/calico/releases/download/v3.33.0/calicoctl-linux-ppc64le) | 93.0 MiB | `other` |
+| [calicoctl-linux-s390x](https://github.com/projectcalico/calico/releases/download/v3.33.0/calicoctl-linux-s390x) | 96.4 MiB | `other` |
+| [calicoctl-windows-amd64.exe](https://github.com/projectcalico/calico/releases/download/v3.33.0/calicoctl-windows-amd64.exe) | 95.2 MiB | `native/win/x64` |
+| [crd.projectcalico.org.v1-v3.33.0.tgz](https://github.com/projectcalico/calico/releases/download/v3.33.0/crd.projectcalico.org.v1-v3.33.0.tgz) | 293.1 KiB | `native/unknown` |
+| [install-calico-windows.ps1](https://github.com/projectcalico/calico/releases/download/v3.33.0/install-calico-windows.ps1) | 23.8 KiB | `native/win/x64` |
+| [metadata.yaml](https://github.com/projectcalico/calico/releases/download/v3.33.0/metadata.yaml) | 660 B | `other` |
+| [ocp.tgz](https://github.com/projectcalico/calico/releases/download/v3.33.0/ocp.tgz) | 6.0 KiB | `native/unknown` |
+| [projectcalico.org.v3-v3.33.0.tgz](https://github.com/projectcalico/calico/releases/download/v3.33.0/projectcalico.org.v3-v3.33.0.tgz) | 290.3 KiB | `native/unknown` |
+| [release-v3.33.0.tgz](https://github.com/projectcalico/calico/releases/download/v3.33.0/release-v3.33.0.tgz) | 518.3 MiB | `native/unknown` |
+| [SHA256SUMS](https://github.com/projectcalico/calico/releases/download/v3.33.0/SHA256SUMS) | 1.3 KiB | `other` |
+| [tigera-operator-v3.33.0.tgz](https://github.com/projectcalico/calico/releases/download/v3.33.0/tigera-operator-v3.33.0.tgz) | 12.0 KiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -96,4 +95,4 @@ calico 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261001.yml` · 2026-10-01T07:20:19Z._
+_数据快照: `data/card/261002.yml` · 2026-10-02T06:59:11Z._
