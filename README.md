@@ -14,7 +14,7 @@ x install calico
 
 ## Code insight
 
-Total: **1,180,460** lines of code across **4343** files in the top 5 languages.
+Total: **1,180,462** lines of code across **4343** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.33.0` (2026-10-01)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 7,400 · **Forks**: 1,620 · **Open issues**: 3,697 · **Contributors**: 434
+- **Stars**: 7,402 · **Forks**: 1,620 · **Open issues**: 3,697 · **Contributors**: 434
 
 ## Totals (cumulative)
 
-- **Releases**: 247 · **Merged PRs**: 9034 · **Open PRs**: 203 · **Closed issues**: 3608 · **Open issues**: 89 · **Commits**: 40819
+- **Releases**: 247 · **Merged PRs**: 9040 · **Open PRs**: 209 · **Closed issues**: 3610 · **Open issues**: 87 · **Commits**: 40823
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 223 | 77 | 8 | 10 | 338 |
-| last60d | 2026-08-24 | 2 | 538 | 98 | 27 | 25 | 860 |
-| 90d | 2026-07-25 | 3 | 787 | 112 | 37 | 28 | 1462 |
-| last180d | 2026-04-26 | 6 | 1293 | 158 | 91 | 36 | 2945 |
-| 360d | 2025-10-28 | 15 | 2303 | 191 | 186 | 46 | 5213 |
-| last720d | 2024-11-02 | 31 | 3631 | 203 | 483 | 60 | 6493 |
+| 30d | 2026-09-24 | 1 | 210 | 83 | 8 | 9 | 342 |
+| last60d | 2026-08-25 | 2 | 529 | 103 | 29 | 23 | 864 |
+| 90d | 2026-07-26 | 3 | 789 | 118 | 39 | 26 | 1466 |
+| last180d | 2026-04-27 | 6 | 1290 | 164 | 93 | 34 | 2949 |
+| 360d | 2025-10-29 | 15 | 2300 | 197 | 188 | 44 | 5217 |
+| last720d | 2024-11-03 | 31 | 3637 | 209 | 485 | 58 | 6497 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for calico lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T06:12:47Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:57:32Z._
