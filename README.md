@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,410 · **Forks**: 1,618 · **Open issues**: 3,702 · **Contributors**: 436
+- **Stars**: 7,410 · **Forks**: 1,617 · **Open issues**: 3,702 · **Contributors**: 436
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 193 | 85 | 9 | 9 | 259 |
-| last60d | 2026-09-02 | 2 | 496 | 114 | 26 | 15 | 648 |
-| 90d | 2026-08-03 | 4 | 778 | 127 | 38 | 26 | 1233 |
-| last180d | 2026-05-05 | 6 | 1303 | 172 | 96 | 35 | 2851 |
-| 360d | 2025-11-06 | 16 | 2320 | 207 | 187 | 43 | 5194 |
-| last720d | 2024-11-11 | 32 | 3679 | 219 | 479 | 59 | 6552 |
+| 30d | 2026-10-03 | 1 | 190 | 85 | 9 | 9 | 259 |
+| last60d | 2026-09-03 | 2 | 485 | 114 | 26 | 15 | 648 |
+| 90d | 2026-08-04 | 4 | 763 | 125 | 38 | 26 | 1233 |
+| last180d | 2026-05-06 | 6 | 1297 | 172 | 94 | 35 | 2851 |
+| 360d | 2025-11-07 | 16 | 2313 | 207 | 186 | 43 | 5194 |
+| last720d | 2024-11-12 | 32 | 3677 | 219 | 479 | 59 | 6552 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for calico lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:27:09Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:42:49Z._
