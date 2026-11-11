@@ -9,18 +9,6 @@
     - ASL 2.0
   categories:
     - Applications/System
-- repo: aur
-  srcname: calicoctl
-  binname: calicoctl
-  visiblename: calicoctl
-  version: 3.32.1
-  origversion: 3.32.1-1
-  status: outdated
-  summary: Calico CLI tool
-  maintainers:
-    - nltimv@aur
-  licenses:
-    - Apache
 - repo: alt_p11
   srcname: calico
   binnames:
@@ -47,16 +35,28 @@
     - calico-ctl
     - calico-kube-controllers
   visiblename: calico
-  version: 3.32.1
-  origversion: 3.32.1-alt2
-  status: outdated
+  version: 3.33.0
+  origversion: 3.33.0-alt1
+  status: newest
   summary: Cloud native networking and network security
   maintainers:
-    - iv@altlinux.org
+    - sovtouch@altlinux.org
   licenses:
     - Apache-2.0 AND GPL-2.0-or-later
   categories:
     - System/Configuration/Networking
+- repo: aur
+  srcname: calicoctl
+  binname: calicoctl
+  visiblename: calicoctl
+  version: 3.32.1
+  origversion: 3.32.1-1
+  status: outdated
+  summary: Calico CLI tool
+  maintainers:
+    - nltimv@aur
+  licenses:
+    - Apache
 - repo: aur
   srcname: calicoctl-bin
   binname: calicoctl-bin
