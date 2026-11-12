@@ -155,7 +155,7 @@
 - repo: nix_unstable
   srcname: calicoctl
   visiblename: calicoctl
-  version: 3.32.1
+  version: 3.32.3
   origversion: null
   status: outdated
   summary: Cloud native networking and network security
