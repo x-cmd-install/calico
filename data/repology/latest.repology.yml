@@ -1,10 +1,3 @@
-- repo: homebrew
-  srcname: calicoctl
-  visiblename: calicoctl
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Calico CLI tool
 - repo: aixtoolbox
   srcname: calicoctl
   visiblename: calicoctl
@@ -83,6 +76,13 @@
   origversion: null
   status: newest
   summary: Calico CLI tool
+- repo: homebrew
+  srcname: calicoctl
+  visiblename: calicoctl
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Calico CLI tool
 - repo: kali_rolling
   subrepo: main
   srcname: calico
@@ -155,7 +155,7 @@
 - repo: nix_unstable
   srcname: calicoctl
   visiblename: calicoctl
-  version: 3.32.3
+  version: 3.32.4
   origversion: null
   status: outdated
   summary: Cloud native networking and network security
