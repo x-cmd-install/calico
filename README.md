@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,425 · **Forks**: 1,623 · **Open issues**: 3,713 · **Contributors**: 436
+- **Stars**: 7,427 · **Forks**: 1,624 · **Open issues**: 3,713 · **Contributors**: 436
 
 ## Totals (cumulative)
 
-- **Releases**: 250 · **Merged PRs**: 9285 · **Open PRs**: 214 · **Closed issues**: 3622 · **Open issues**: 91 · **Commits**: 41122
+- **Releases**: 250 · **Merged PRs**: 9285 · **Open PRs**: 215 · **Closed issues**: 3622 · **Open issues**: 91 · **Commits**: 41122
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 208 | 74 | 5 | 13 | 296 |
-| last60d | 2026-09-22 | 4 | 479 | 104 | 15 | 21 | 668 |
-| 90d | 2026-08-23 | 5 | 793 | 121 | 41 | 30 | 1210 |
-| last180d | 2026-05-25 | 8 | 1398 | 164 | 90 | 37 | 2913 |
-| 360d | 2025-11-26 | 15 | 2440 | 203 | 173 | 45 | 5370 |
-| last720d | 2024-12-01 | 32 | 3819 | 214 | 462 | 62 | 6725 |
+| 30d | 2026-10-23 | 3 | 196 | 75 | 5 | 13 | 230 |
+| last60d | 2026-09-23 | 4 | 469 | 105 | 15 | 21 | 597 |
+| 90d | 2026-08-24 | 5 | 784 | 122 | 40 | 30 | 1051 |
+| last180d | 2026-05-26 | 8 | 1391 | 165 | 90 | 37 | 2809 |
+| 360d | 2025-11-27 | 15 | 2437 | 204 | 173 | 45 | 5335 |
+| last720d | 2024-12-02 | 32 | 3816 | 215 | 462 | 62 | 6725 |
 
 ## Release assets
 
@@ -92,8 +92,8 @@ Reported by **15** distros on [repology.org](https://repology.org/project/calico
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `3.32.3` | ⚠️ outdated |
+| Homebrew | `3.33.1` | ✅ latest |
+| Nix unstable | `3.32.4` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -104,4 +104,4 @@ Install metadata for calico lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:27:47Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:56:35Z._
