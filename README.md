@@ -14,11 +14,11 @@ x install calico
 
 ## Code insight
 
-Total: **1,262,058** lines of code across **4505** files in the top 5 languages.
+Total: **1,262,129** lines of code across **4505** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 693,367 | 118,238 | 101,715 | 3178 |
+| Go | 693,427 | 118,260 | 101,726 | 3178 |
 | Yaml | 461,263 | 4,038 | 1,663 | 474 |
 | Python | 29,829 | 6,831 | 4,760 | 135 |
 | ForgeConfig | 22,256 | 6,488 | 1 | 539 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 250 · **Merged PRs**: 9316 · **Open PRs**: 213 · **Closed issues**: 3624 · **Open issues**: 92 · **Commits**: 41167
+- **Releases**: 250 · **Merged PRs**: 9321 · **Open PRs**: 217 · **Closed issues**: 3625 · **Open issues**: 91 · **Commits**: 41194
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 3 | 215 | 73 | 7 | 14 | 274 |
-| last60d | 2026-09-26 | 4 | 459 | 103 | 16 | 22 | 642 |
-| 90d | 2026-08-27 | 5 | 781 | 118 | 41 | 31 | 1096 |
-| last180d | 2026-05-29 | 8 | 1393 | 163 | 85 | 38 | 2854 |
-| 360d | 2025-11-30 | 14 | 2462 | 202 | 175 | 46 | 5380 |
-| last720d | 2024-12-05 | 32 | 3830 | 213 | 460 | 63 | 6730 |
+| 30d | 2026-10-27 | 3 | 207 | 72 | 7 | 14 | 297 |
+| last60d | 2026-09-27 | 4 | 464 | 107 | 16 | 22 | 665 |
+| 90d | 2026-08-28 | 5 | 781 | 122 | 41 | 31 | 1119 |
+| last180d | 2026-05-30 | 8 | 1397 | 167 | 85 | 38 | 2877 |
+| 360d | 2025-12-01 | 14 | 2466 | 206 | 176 | 45 | 5403 |
+| last720d | 2024-12-06 | 32 | 3834 | 217 | 461 | 62 | 6740 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for calico lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:14:16Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:19:22Z._
